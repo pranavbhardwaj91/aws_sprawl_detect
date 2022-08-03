@@ -1,0 +1,9 @@
+#Sprawl detection code repositry
+1) In this repository, few code files contains delete function.
+2) Codes are written in boto3 and boto2
+3) sprawl.py is the combination of scripts.
+4) Make sure, below mentioned modules are avilable in your box.
+	a) csv       # To copy the output to excel sheet
+	b) itertools # Functions creating iterators for efficient looping
+	c) xlwt	     #Generate spreadsheet files compatible 
+	d) glob     # finds all the pathnames matching a specified pattern according to the rules used by the Unix shel 	
